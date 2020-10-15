@@ -1,5 +1,9 @@
-### Hi there 👋
-- 🔭 I’m currently working on ...
+### Hi there 👋 My name is Ben.
+
+- 🔭 I’m currently working on
+* My web design company called [Orbit Projects](https://orbitprojects.github.io/)
 - 🌱 I’m currently learning
-![CSS3](C:\Users\maselbs\Desktop\Code\css3.svg)
-- 📫 How to reach me: ...
+* HTML
+* CSS
+* JS
+<!-- ![CSS](https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/css3.svg |)
