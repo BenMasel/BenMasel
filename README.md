@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Ben.
 
-- 🔭 I’m currently working on
+🔭 I’m currently working on
 * My web design company called [Orbit Projects](https://orbitprojects.github.io/)
-- 🌱 I’m currently learning
+🌱 I’m currently learning
 * HTML
 * CSS
 * JS
