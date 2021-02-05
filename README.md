@@ -6,7 +6,8 @@
 
 🌱 I’m currently learning
 
-* HTML
-* CSS
-* JS
-<!-- ![CSS](https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/css3.svg |)
+<p float="left">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/2721/2721267.svg?token=exp=1612515696~hmac=961992d1a081b0ebede8f6973b0de896" alt="html" width="100px" height="100px">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/2721/2721214.svg?token=exp=1612515696~hmac=2171d0af71f97b881f5db4da1ab36cb2" alt="css" width="100px" height="100px">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/2721/2721272.svg?token=exp=1612515696~hmac=37774fc8083a2f451cf2f616abf22006" alt="js" width="100px" height="100px">
+</p>
