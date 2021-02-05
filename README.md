@@ -2,7 +2,10 @@
 
 🔭 I’m currently working on
 * My web design company called [Orbit Projects](https://orbitprojects.github.io/)
+* My [personal website](https://benmasel.github.io)
+
 🌱 I’m currently learning
+
 * HTML
 * CSS
 * JS
