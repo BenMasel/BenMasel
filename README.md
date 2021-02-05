@@ -13,4 +13,8 @@
   <img src="https://www.flaticon.com/svg/vstatic/svg/2721/2721194.svg?token=exp=1612516358~hmac=03c0e03b7df17983bc5f40e02adbaf51" alt="cs" width="75px" height="75px">
 </p>
 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenMasel&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenMasel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <sub><sub float="left">Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></sub></sub>
+
