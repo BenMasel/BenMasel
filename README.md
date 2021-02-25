@@ -16,5 +16,5 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenMasel&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenMasel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<sub><sub float="left">Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></sub></sub>
+<!-- <sub><sub float="left">Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></sub></sub> -->
 
