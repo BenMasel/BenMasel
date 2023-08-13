@@ -1,8 +1,9 @@
 ### Hi there 👋 My name is Ben.
 
-🔭 I’m currently working on
-* My web design company called [Orbit Projects](https://orbitprojects.github.io/)
-* My [personal website](https://benmasel.github.io)
+🔭 I’m the type of guy to:
+* customize configs for the softwares I use rather than use those softwares to actually code
+* spend my time researching softwares to use
+* do the above in order to avoid doing actual work
 
 <!-- 🌱 I’m currently learning -->
 
